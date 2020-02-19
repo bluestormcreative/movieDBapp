@@ -1,3 +1,7 @@
+## themoviedb.org Search App
+
+Simple app to search movies from the public API.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
